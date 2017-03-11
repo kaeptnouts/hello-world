@@ -1,2 +1,2 @@
 # hello-world
-to start
+Everything or nothing
